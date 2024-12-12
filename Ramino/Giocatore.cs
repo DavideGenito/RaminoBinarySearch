@@ -35,12 +35,13 @@
             _punteggi = new int?[partite];
         }
 
+        
         public void MemorizzaPunteggioPartita(int punteggio, int partita)
         {
             if (punteggio < 0 || punteggio > 100) throw new ArgumentOutOfRangeException("punteggio errato");
             if (partita < 1 || partita > NumeroPartite) throw new ArgumentOutOfRangeException("numero partita errato");
             if (partita > 1 && _punteggi[partita - 2] == null) throw new ArgumentException($"non è possibile salvare il punteggio per la partita {partita} perchè non è ancora stato definito il punteggio della partita {partita - 1}");
-
+            
             if (partita == 1)
                 _punteggi[partita - 1] = punteggio;
             else
@@ -49,7 +50,7 @@
 
         public int? RicercaPartitaPerPunteggio(int punteggioDaCercare)
         {
-            if (punteggioDaCercare < 0 || punteggioDaCercare > 100) throw new ArgumentOutOfRangeException("punteggio errato");
+            if (punteggioDaCercare < 0) throw new ArgumentOutOfRangeException("punteggio errato");
             int inizio = 0;
             int fine = NumeroPartite - 1;
 

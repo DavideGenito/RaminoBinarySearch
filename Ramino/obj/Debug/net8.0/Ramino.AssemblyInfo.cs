@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ramino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+390b91683f60d2f851a62841429e8dc79781fb63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e2dcd4fbe7649e00c2286df5203903dba5cdc7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ramino")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ramino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

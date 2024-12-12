@@ -3,19 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\davide.genito\\Downloads\\RaminoBinarySearch\\RaminoBinarySearch-master\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D8B370D-2771-4E1B-8280-EC5932E236EE}|Ramino\\Ramino.csproj|c:\\users\\davide.genito\\downloads\\raminobinarysearch\\raminobinarysearch-master\\ramino\\torneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8B370D-2771-4E1B-8280-EC5932E236EE}|Ramino\\Ramino.csproj|solutionrelative:ramino\\torneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D8B370D-2771-4E1B-8280-EC5932E236EE}|Ramino\\Ramino.csproj|c:\\users\\davide.genito\\downloads\\raminobinarysearch\\raminobinarysearch-master\\ramino\\giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D8B370D-2771-4E1B-8280-EC5932E236EE}|Ramino\\Ramino.csproj|solutionrelative:ramino\\giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FD69E80-67EC-455B-BDA6-B16CFB56FFDB}|RaminoMain\u0027\\RaminoMain.csproj|c:\\users\\davide.genito\\downloads\\raminobinarysearch\\raminobinarysearch-master\\raminomain\u0027\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FD69E80-67EC-455B-BDA6-B16CFB56FFDB}|RaminoMain\u0027\\RaminoMain.csproj|solutionrelative:raminomain\u0027\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D8B370D-2771-4E1B-8280-EC5932E236EE}|Ramino\\Ramino.csproj|c:\\users\\davide.genito\\downloads\\raminobinarysearch\\raminobinarysearch-master\\ramino\\torneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D8B370D-2771-4E1B-8280-EC5932E236EE}|Ramino\\Ramino.csproj|solutionrelative:ramino\\torneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\Desktop\\Informatica\\Git\\RaminoBinarySearch-master\\RaminoBinarySearch-master\\RaminoMain\u0027\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,56 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\davide.genito\\Downloads\\RaminoBinarySearch\\RaminoBinarySearch-master\\RaminoMain\u0027\\Program.cs",
               "RelativeDocumentMoniker": "RaminoMain\u0027\\Program.cs",
               "ToolTip": "C:\\Users\\davide.genito\\Downloads\\RaminoBinarySearch\\RaminoBinarySearch-master\\RaminoMain\u0027\\Program.cs",
               "RelativeToolTip": "RaminoMain\u0027\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T09:08:25.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Giocatore.cs",
               "DocumentMoniker": "C:\\Users\\davide.genito\\Downloads\\RaminoBinarySearch\\RaminoBinarySearch-master\\Ramino\\Giocatore.cs",
               "RelativeDocumentMoniker": "Ramino\\Giocatore.cs",
               "ToolTip": "C:\\Users\\davide.genito\\Downloads\\RaminoBinarySearch\\RaminoBinarySearch-master\\Ramino\\Giocatore.cs",
               "RelativeToolTip": "Ramino\\Giocatore.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAmwAgAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwCsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T09:38:56.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Torneo.cs",
               "DocumentMoniker": "C:\\Users\\davide.genito\\Downloads\\RaminoBinarySearch\\RaminoBinarySearch-master\\Ramino\\Torneo.cs",
               "RelativeDocumentMoniker": "Ramino\\Torneo.cs",
               "ToolTip": "C:\\Users\\davide.genito\\Downloads\\RaminoBinarySearch\\RaminoBinarySearch-master\\Ramino\\Torneo.cs",
               "RelativeToolTip": "Ramino\\Torneo.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowAEAAAABAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T09:48:38.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\david\\Desktop\\Informatica\\Git\\RaminoBinarySearch-master\\RaminoBinarySearch-master\\RaminoMain\u0027\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\david\\Desktop\\Informatica\\Git\\RaminoBinarySearch-master\\RaminoBinarySearch-master\\RaminoMain\u0027\\Program.cs",
-              "ToolTip": "C:\\Users\\david\\Desktop\\Informatica\\Git\\RaminoBinarySearch-master\\RaminoBinarySearch-master\\RaminoMain\u0027\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\david\\Desktop\\Informatica\\Git\\RaminoBinarySearch-master\\RaminoBinarySearch-master\\RaminoMain\u0027\\Program.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T18:08:59.356Z"
+              "WhenOpened": "2024-12-11T09:48:38.75Z",
+              "EditorCaption": ""
             }
           ]
         }

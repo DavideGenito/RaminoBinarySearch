@@ -16,10 +16,7 @@
       },
       "Ramino/1.0.0": {
         "runtime": {
-          "Ramino.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Ramino.dll": {}
         }
       }
     }

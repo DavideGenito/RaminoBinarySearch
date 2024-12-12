@@ -20,3 +20,15 @@ C:\Users\david\Desktop\Informatica\Git\RaminoBinarySearch-master\RaminoBinarySea
 C:\Users\david\Desktop\Informatica\Git\RaminoBinarySearch-master\RaminoBinarySearch-master\Ramino\obj\Debug\net8.0\refint\Ramino.dll
 C:\Users\david\Desktop\Informatica\Git\RaminoBinarySearch-master\RaminoBinarySearch-master\Ramino\obj\Debug\net8.0\Ramino.pdb
 C:\Users\david\Desktop\Informatica\Git\RaminoBinarySearch-master\RaminoBinarySearch-master\Ramino\obj\Debug\net8.0\ref\Ramino.dll
+C:\Users\davide.genito\Downloads\RaminoBinarySearch\RaminoBinarySearch-master\Ramino\bin\Debug\net8.0\Ramino.deps.json
+C:\Users\davide.genito\Downloads\RaminoBinarySearch\RaminoBinarySearch-master\Ramino\bin\Debug\net8.0\Ramino.dll
+C:\Users\davide.genito\Downloads\RaminoBinarySearch\RaminoBinarySearch-master\Ramino\bin\Debug\net8.0\Ramino.pdb
+C:\Users\davide.genito\Downloads\RaminoBinarySearch\RaminoBinarySearch-master\Ramino\obj\Debug\net8.0\Ramino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davide.genito\Downloads\RaminoBinarySearch\RaminoBinarySearch-master\Ramino\obj\Debug\net8.0\Ramino.AssemblyInfoInputs.cache
+C:\Users\davide.genito\Downloads\RaminoBinarySearch\RaminoBinarySearch-master\Ramino\obj\Debug\net8.0\Ramino.AssemblyInfo.cs
+C:\Users\davide.genito\Downloads\RaminoBinarySearch\RaminoBinarySearch-master\Ramino\obj\Debug\net8.0\Ramino.csproj.CoreCompileInputs.cache
+C:\Users\davide.genito\Downloads\RaminoBinarySearch\RaminoBinarySearch-master\Ramino\obj\Debug\net8.0\Ramino.sourcelink.json
+C:\Users\davide.genito\Downloads\RaminoBinarySearch\RaminoBinarySearch-master\Ramino\obj\Debug\net8.0\Ramino.dll
+C:\Users\davide.genito\Downloads\RaminoBinarySearch\RaminoBinarySearch-master\Ramino\obj\Debug\net8.0\refint\Ramino.dll
+C:\Users\davide.genito\Downloads\RaminoBinarySearch\RaminoBinarySearch-master\Ramino\obj\Debug\net8.0\Ramino.pdb
+C:\Users\davide.genito\Downloads\RaminoBinarySearch\RaminoBinarySearch-master\Ramino\obj\Debug\net8.0\ref\Ramino.dll

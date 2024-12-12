@@ -24,13 +24,13 @@ namespace RaminoMain
             }
 
             string[] vincitori = torneo.vincita();
-            Console.WriteLine("\nVincitore/i del torneo:");
+            Console.WriteLine("\nVincitori del torneo:");
             foreach (string vincitore in vincitori)
             {
                 Console.WriteLine(vincitore);
             }
 
-            int punteggioDaVerificare = random.Next(0, 101);
+            int punteggioDaVerificare = random.Next(0, 100*numeroPartite+1);
             Console.WriteLine($"\nPunteggio da verificare: {punteggioDaVerificare}");
 
             for (int i = 1; i <= numeroGiocatori; i++)
